@@ -36,7 +36,7 @@
     "byline": "^4.2.1",
     "object-assign": "^4.0.1",
     "parse-cookie-phantomjs": "^1.0.0",
-    "phantom-bridge": "^2.0.0"
+    "phantom-bridge": "github:Chewey-Bot/phantom-bridge#e078acbfcfcb1bf3728ae6eb8e077ccdd21fda80"
   },
   "devDependencies": {
     "ava": "*",
